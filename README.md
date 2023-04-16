@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="500px" min-width="300px" max-width="500px" align="right" alt="Well Nerd">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" min-width="300px" max-width="400px" align="right" alt="Well Nerd">
 
 <h2>Opa, eu sou o Well! 👋</h2>
 
