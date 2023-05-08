@@ -3,7 +3,7 @@
 <h2>Opa, eu sou o Well! 👋</h2>
 
 <p>🤓 Atualmente trabalho criando sites em WP na <a href="https://produzsite.com" target="_blank">ProduzSite</a><br>
-📚 Estou sempre estudando algo sobre HTML, CSS, JS, TS, GIT, NODE, Next, React ou Firebase.<br>
+📚 Estou sempre estudando algo sobre HTML, CSS, JS, TS, GIT, NODE, Next, React, Firebase e PostgreSQL.<br>
 💌 E-mail para contato: <a href="mailto:contato@wellmelo.com">contato@wellmelo.com</a></p>
 
 ## Tecnologias que mais utilizo
